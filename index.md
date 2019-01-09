@@ -4,4 +4,6 @@
 
 layout: home
 ---
-## Just Test
+## Building...
+
+### Just Blog
