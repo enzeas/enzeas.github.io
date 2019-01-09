@@ -1,10 +1,10 @@
 ---
-layout: page
-title: About
+layout: nav
+title: 关于
 permalink: /about/
 ---
 
-## 给读者的忠告
+### 给读者的忠告
 
 此博客内容因博主见识、表达措辞、查阅资料有限、资料时效性变化等因素，内容不能保证完全正确或适合读者使用！！！
 

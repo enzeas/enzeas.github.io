@@ -7,16 +7,19 @@ title: 无证程序员E君
 email: enzeas@gmail.com
 description: 从删库到跑路
 # >- # this means to ignore newlines until "baseurl:"
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://enzeas.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: enzeas 
 github_username: enzeas 
-
+show_excerpts: True
 # Build settings
 markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+
+paginate: 10
+paginate_path: "page:num"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
