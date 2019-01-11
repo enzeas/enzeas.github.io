@@ -1,8 +1,10 @@
 ---
 layout: post
 title:  "R数据描述(3)"
+author: E君
+date:   2014-12-28
 categories: R
-tags: "读书笔记" 
+tags: 读书笔记
 ---
 
 ### 绘图命令 ###

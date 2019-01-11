@@ -2,7 +2,7 @@
 layout: post
 title:  "随感"
 author: E君
-date:   2019-01-06
+date:   2019-1-6
 categories: 生活
 tags: 感悟
 ---

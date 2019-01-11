@@ -1,8 +1,10 @@
 ---
 layout: post
 title:  "深度探索C++对象模型(9)"
+author: E君
+date:   2016-12-2
 categories: C
-tags: "读书笔记" 
+tags: 读书笔记
 ---
 
 ### Data Member与Inheritance ###

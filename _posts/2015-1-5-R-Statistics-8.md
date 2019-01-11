@@ -1,8 +1,10 @@
 ---
 layout: post
 title:  "R数据描述(4)"
+author: E君
+date:   2015-1-5
 categories: R
-tags: "读书笔记" 
+tags: 读书笔记
 ---
 
 ### 二元数据的数据描述 ###

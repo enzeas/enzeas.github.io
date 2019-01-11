@@ -1,8 +1,10 @@
 ---
 layout: post
 title:  "搭建个人站点"
+author: E君
+date:   2014-10-27
 categories: Web
-tags: "学习笔记" 
+tags: 学习笔记
 ---
 ### 使用GitHub ###
 

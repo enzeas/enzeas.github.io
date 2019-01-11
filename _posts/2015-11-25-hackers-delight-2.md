@@ -1,8 +1,10 @@
 ---
 layout: post
 title:  "Hacker's Delight(2)"
+author: E君
+date:   2015-11-25
 categories: 技巧
-tags: "读书笔记" 
+tags: 笔记
 ---
 
 ### 恒等式 ###

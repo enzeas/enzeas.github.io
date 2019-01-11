@@ -1,8 +1,10 @@
 ---
 layout: post
 title:  "Hacker's Delight(1)"
+author: E君
+date:   2015-11-16
 categories: 技巧
-tags: "读书笔记" 
+tags: 笔记
 ---
 
 ### 基础知识 ###

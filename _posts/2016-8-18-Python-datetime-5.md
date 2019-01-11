@@ -1,8 +1,10 @@
 ---
 layout: post
 title:  "Python时间处理(5)"
+author: E君
+date:   2016-8-18
 categories: Python
-tags: "学习笔记" 
+tags: 学习笔记
 ---
 
 ### tzinfo对象 ###

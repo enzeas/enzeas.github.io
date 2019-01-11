@@ -1,8 +1,10 @@
 ---
 layout: post
 title:  "Python时间处理(3)"
+author: E君
+date:   2016-8-5
 categories: Python
-tags: "学习笔记" 
+tags: 学习笔记
 ---
 
 ### datetime对象 ###

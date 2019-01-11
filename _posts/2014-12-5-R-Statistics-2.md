@@ -1,8 +1,10 @@
 ---
 layout: post
 title:  "R基础(2)"
+author: E君
+date:   2014-12-5
 categories: R
-tags: "读书笔记" 
+tags: 读书笔记
 ---
 
 ### 对象属性 ###

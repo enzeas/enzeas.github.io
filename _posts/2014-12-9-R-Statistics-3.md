@@ -1,8 +1,10 @@
 ---
 layout: post
 title:  "R基础(3)"
+author: E君
+date:   2014-12-9
 categories: R
-tags: "读书笔记" 
+tags: 读书笔记
 ---
 
 ### 多维数组和矩阵的构造 ###

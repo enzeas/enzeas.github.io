@@ -1,8 +1,10 @@
 ---
 layout: post
 title:  "R数据描述(2)"
+author: E君
+date:   2014-12-22
 categories: R
-tags: "读书笔记" 
+tags: 读书笔记
 ---
 
 ### 分布函数 ###

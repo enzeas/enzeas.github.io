@@ -1,8 +1,10 @@
 ---
 layout: post
 title:  "深度探索C++对象模型(2)"
+author: E君
+date:   2016-10-31
 categories: C
-tags: "读书笔记" 
+tags: 读书笔记
 ---
 ### 程序设计范式 ###
 

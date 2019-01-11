@@ -1,8 +1,10 @@
 ---
 layout: post
 title:  "R基础(4)"
+author: E君
+date:   2014-12-12
 categories: R
-tags: "读书笔记" 
+tags: 读书笔记
 ---
 
 ### 读取纯文本文件 ###

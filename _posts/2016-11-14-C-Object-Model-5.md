@@ -1,8 +1,10 @@
 ---
 layout: post
 title:  "深度探索C++对象模型(5)"
+author: E君
+date:   2016-11-14
 categories: C
-tags: "读书笔记" 
+tags: 读书笔记
 ---
 
 ### 程序转化语义学 ###

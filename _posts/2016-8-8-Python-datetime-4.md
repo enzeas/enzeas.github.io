@@ -1,8 +1,10 @@
 ---
 layout: post
 title:  "Python时间处理(4)"
+author: E君
+date:   2016-8-8
 categories: Python
-tags: "学习笔记" 
+tags: 学习笔记
 ---
 
 ### time对象 ###

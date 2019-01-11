@@ -1,8 +1,10 @@
 ---
 layout: post
 title:  "R基础(1)"
+author: E君
+date:   2014-12-2
 categories: R
-tags: "读书笔记" 
+tags: 读书笔记
 ---
 
 ### 向量 ###
