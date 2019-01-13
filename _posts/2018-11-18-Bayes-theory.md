@@ -19,7 +19,6 @@ tags: 概率
 
 [wikipedia](https://zh.wikipedia.org/wiki/%E8%B4%9D%E5%8F%B6%E6%96%AF%E6%A6%82%E7%8E%87)
 
-[流体传送动力](http://blog.ilc.edu.tw/blog/index.php?op=printView&articleId=628152&blogId=33949)
 
 ### 哥本哈根诠释
 
