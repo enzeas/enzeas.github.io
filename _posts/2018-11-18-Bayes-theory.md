@@ -2,7 +2,7 @@
 layout: post
 title:  "贝叶斯"
 author: E君
-date:   2018-11-4
+date:   2018-11-18
 categories: 数学
 tags: 概率
 ---
